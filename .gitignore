@@ -13,6 +13,8 @@ __pycache__/
 *.so
 *.a
 *.lib
+*.libtorch/
+*.zip
 *.bin
 *.elf
 *.map
@@ -62,6 +64,8 @@ __results__/
 .idea/
 .vscode/
 *.code-workspace
+.idea/
+*.iml
 
 # === Sistema Operacional ===
 .DS_Store
