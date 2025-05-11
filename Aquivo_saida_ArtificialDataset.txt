@@ -1,0 +1,18 @@
+Tamalho do dataset10
+Features shape[10, 2]
+Primeiro Ponto: 1.2219
+ 1.2219
+[ CPUFloatType{2} ]
+Label Shape:0
+[ CPULongType{} ]
+Mean: 0.1669
+ 0.1669
+[ CPUFloatType{2} ]
+Std: 1.0468
+ 1.0468
+[ CPUFloatType{2} ]
+
+Exemplos 0: 
+- X =  1.2219
+ 1.2219
+[ CPUFloatType{2} ]
